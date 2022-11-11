@@ -1,6 +1,13 @@
-# 2022
-- Week 1 - January 2 - Build a Scatter Plot
+# Back 2 Viz Weekly Challenge
 
+Tech Stack
+- Python
+- Power BI
+- Tableau
+
+### 2022
+- Week 1 - January 2 - Build a Scatter Plot
+![W1Data](week1.jpg)
 - Week 2 - January 16 - Dates & Line Charts
  
 - Week 3 - January 30 - Build Your Best Text Table
