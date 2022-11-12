@@ -9,7 +9,7 @@ Tech Stack
 - Week 1 - January 2 - Build a Scatter Plot
 ![W1Data](week1.jpg)
 - Week 2 - January 16 - Dates & Line Charts
- 
+![W2Data](week2.jpg)
 - Week 3 - January 30 - Build Your Best Text Table
  
 - Week 4 - February 13 - Design Some KPIs
